@@ -21,9 +21,10 @@ El flujo de trabajo sigue el modelo de operación binaria:
 1. **Entrada**: El usuario ingresa el primer operando.
 2. **Selección**: Se elige una operación básica: Suma (+), Resta (-), Multiplicación (*) o División (/).
 3. **Procesamiento**: Tras ingresar el segundo operando y presionar = (o Enter), el sistema calcula:
-<p align = "center">
-  <b> Resultado </b> = <b> A </b> op <b> B </b>
-</p>
+  <p align = "center">
+    <b> Resultado </b> = <b> A </b> op <b> B </b>
+  </p>
+  
 4. **Salida**: El resultado se despliega inmediatamente en la pantalla principal.
 
 > [!NOTE]
