@@ -20,8 +20,11 @@ El sistema se encuentra en un estado de escucha constante (Event Loop), esperand
 El flujo de trabajo sigue el modelo de operación binaria:
 1. **Entrada**: El usuario ingresa el primer operando.
 2. **Selección**: Se elige una operación básica: Suma (+), Resta (-), Multiplicación (*) o División (/).
-3. **Procesamiento**: Tras ingresar el segundo operando y presionar = (o Enter), el sistema calcula:$$Resultado = A \text{ op } B$$
-4. **Salida**: El resultado se despliega inmediatamente en la pantalla principal.
+3. **Procesamiento**: Tras ingresar el segundo operando y presionar = (o Enter), el sistema calcula:
+<p align = "center">
+  <b> Resultado </b> = <b> A </b> op <b> B </b>
+</p>
+5. **Salida**: El resultado se despliega inmediatamente en la pantalla principal.
 
 > [!NOTE]
 > ### **Instalación**
