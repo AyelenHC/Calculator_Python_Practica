@@ -24,7 +24,7 @@ El flujo de trabajo sigue el modelo de operación binaria:
 <p align = "center">
   <b> Resultado </b> = <b> A </b> op <b> B </b>
 </p>
-5. **Salida**: El resultado se despliega inmediatamente en la pantalla principal.
+4. **Salida**: El resultado se despliega inmediatamente en la pantalla principal.
 
 > [!NOTE]
 > ### **Instalación**
